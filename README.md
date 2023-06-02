@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! Welcome to my GitHub page!</h1>
+<h1 align="center">Hello there! Welcome to my GitHub page!</h1>
 
 <p>
  I'm Natalia, a front-end enthusiast who's passionate about creating pixel-perfect and engaging user interfaces.<br /> 
@@ -12,28 +12,47 @@
 [![Redux](https://img.shields.io/badge/redux-black?style=for-the-badge&logo=redux)](https://redux.js.org/) 
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://html.com/html5/) 
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://www.css3.com/) 
+[![Flexbox](https://img.shields.io/badge/flexbox-black?style=for-the-badge&logo=flexbox)](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_flexible_box_layout/Basic_concepts_of_flexbox) 
 [![Tailwind CSS](https://img.shields.io/badge/tailwindcss-black?style=for-the-badge&logo=tailwindcss)](https://tailwindcss.com/) 
-[![styled-components](https://img.shields.io/badge/styledcomponents-black?style=for-the-badge&logo=styled-components)](https://styled-components.com/docs) 
-[![Flexbox Layout](https://img.shields.io/badge/flexbox-black?style=for-the-badge&logo=flexbox)](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_flexible_box_layout/Basic_concepts_of_flexbox) 
+[![DaisyUI](https://img.shields.io/badge/daisyui-black?style=for-the-badge&logo=daisyui)](https://daisyui.com/) 
+[![styled-components](https://img.shields.io/badge/styled-components-black?style=for-the-badge&logo=styled-components)](https://styled-components.com/docs) 
+[![Create React App](https://img.shields.io/badge/create-reactapp-black?style=for-the-badge&logo=createreactapp)](https://create-react-app.dev/) 
 
-### Testing Libraries and Frameworks
-[![Jest](https://img.shields.io/badge/jest-black?style=for-the-badge&logo=jest)](https://jestjs.io/) 
-[![React Testing Library](https://img.shields.io/badge/RTL-black?style=for-the-badge&logo=TestingLibrary)](https://testing-library.com/docs/react-testing-library/intro/) 
-[![Cypress E2E Testing](https://img.shields.io/badge/cypress-black?style=for-the-badge&logo=cypress)](https://www.cypress.io/) 
-[![CodeceptJS E2E Testing](https://img.shields.io/badge/CodeceptJS-black?style=for-the-badge&logo=CodeceptJS)](https://codecept.io/) 
-[![ChaiJS](https://img.shields.io/badge/chai-black?style=for-the-badge&logo=chai)](https://www.chaijs.com/) 
-[![Gherkin Syntax](https://img.shields.io/badge/cucumber-black?style=for-the-badge&logo=cucumber)](https://cucumber.io/docs/gherkin/reference/) 
-[![K6 Load Testing](https://img.shields.io/badge/k6-black?style=for-the-badge&logo=k6)](https://k6.io/)
-[![BrowserStack](https://img.shields.io/badge/BrowserStack-blue?style=for-the-badge)](https://www.browserstack.com/)
-[![Persy Visual Testing](https://img.shields.io/badge/percy-purple?style=for-the-badge&logo=percy&logoColor=white)](https://www.browserstack.com/percy)
-[![Applitools Visual Testing](https://img.shields.io/badge/applitools-teal?style=for-the-badge&logo=applitools)](https://applitools.com/)
+### Linters and Formatters
+[![ESLint](https://img.shields.io/badge/eslint-black?style=for-the-badge&logo=eslint)](https://eslint.org/) 
+[![Prettier](https://img.shields.io/badge/prettier-black?style=for-the-badge&logo=prettier)](https://prettier.io/) 
+
+### Package Managers and Bundlers
+[![NPM](https://img.shields.io/badge/npm-black?style=for-the-badge&logo=npm)](https://www.npmjs.com/) 
+[![Yarn](https://img.shields.io/badge/yarn-black?style=for-the-badge&logo=yarn)](https://yarnpkg.com/) 
+[![Vite](https://img.shields.io/badge/vite-black?style=for-the-badge&logo=vite)](https://vitejs.dev/) 
+[![Webpack](https://img.shields.io/badge/webpack-black?style=for-the-badge&logo=webpack)](https://webpack.js.org/) 
+
+### Version Control Systems
+[![GitHub](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github)](https://github.com/) 
+[![Bitbucket](https://img.shields.io/badge/bitbucket-black?style=for-the-badge&logo=bitbucket)](https://bitbucket.org/) 
 
 ### Continuous Deployment and Monitoring
 [![CircleCI](https://img.shields.io/badge/circleci-black?style=for-the-badge&logo=circleci)](https://circleci.com/) 
 [![Datadog](https://img.shields.io/badge/datadog-black?style=for-the-badge&logo=datadog)](https://www.datadoghq.com/)
-[![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/nataburdyey)  
+[![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)  
 
+### Unit Testing
+[![Jest](https://img.shields.io/badge/jest-black?style=for-the-badge&logo=jest)](https://jestjs.io/) 
+[![React Testing Library](https://img.shields.io/badge/RTL-black?style=for-the-badge&logo=TestingLibrary)](https://testing-library.com/docs/react-testing-library/intro/) 
+[![ChaiJS](https://img.shields.io/badge/chai-black?style=for-the-badge&logo=chai)](https://www.chaijs.com/) 
+[![Enzyme](https://img.shields.io/badge/enzyme-black?style=for-the-badge&logo=enzymejs)](https://enzymejs.github.io/enzyme/) 
 
+### E2E Testing
+[![Cypress E2E Testing](https://img.shields.io/badge/cypress-black?style=for-the-badge&logo=cypress)](https://www.cypress.io/) 
+[![CodeceptJS E2E Testing](https://img.shields.io/badge/CodeceptJS-black?style=for-the-badge&logo=CodeceptJS)](https://codecept.io/) 
+[![Gherkin Syntax](https://img.shields.io/badge/cucumber-black?style=for-the-badge&logo=cucumber)](https://cucumber.io/docs/gherkin/reference/) 
+
+### Performance, Load, And Visual Testing
+[![K6 Load Testing](https://img.shields.io/badge/k6-black?style=for-the-badge&logo=k6)](https://k6.io/)
+[![BrowserStack](https://img.shields.io/badge/BrowserStack-blue?style=for-the-badge)](https://www.browserstack.com/)
+[![Persy Visual Testing](https://img.shields.io/badge/percy-purple?style=for-the-badge&logo=percy&logoColor=white)](https://www.browserstack.com/percy)
+[![Applitools Visual Testing](https://img.shields.io/badge/applitools-teal?style=for-the-badge&logo=applitools)](https://applitools.com/)
 
 <p align="center">
   <a href="https://github.com/nataburdyey">
@@ -61,7 +80,7 @@
 
 <p align="center">
   <a href="https://github.com/nataburdyey">
-    <img src="https://komarev.com/ghpvc/?username=nataburdyey&color=blue&style=flat)" />
+    <img src="https://komarev.com/ghpvc/?username=nataburdyey&color=blue&style=for-the-badge" />
   </a>
 </p>
 <!--
