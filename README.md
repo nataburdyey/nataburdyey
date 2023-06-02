@@ -12,7 +12,7 @@
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/nataburdyey) 
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/nataburdyey) 
 [![Jest](https://img.shields.io/badge/jest-black?style=for-the-badge&logo=jest)](https://github.com/nataburdyey) 
-[![React Testing Library](https://img.shields.io/badge/ReactTestingLibrary-black?style=for-the-badge&logo=TestingLibrary)](https://github.com/nataburdyey) 
+[![React Testing Library](https://img.shields.io/badge/RTL-black?style=for-the-badge&logo=TestingLibrary)](https://github.com/nataburdyey) 
 [![Cypress](https://img.shields.io/badge/cypress-black?style=for-the-badge&logo=cypress)](https://github.com/nataburdyey) 
 
 I believe that attention to detail is the key to achieving top-notch quality. I pour my energy into ensuring that each aspect of the software meets the highest standards, and I enjoy collaborating with cross-functional teams to build robust solutions.
