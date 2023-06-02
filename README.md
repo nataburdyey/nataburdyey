@@ -1,7 +1,7 @@
 <h1 align="center">Hello there! Welcome to my GitHub page!</h1>
 
 <p>
- I'm Natalia, a front-end enthusiast who's passionate about creating pixel-perfect and engaging user interfaces.<br /> 
+ I'm Natalia, a front-end engineer who's passionate about creating pixel-perfect and engaging user interfaces.<br /> 
  I believe that attention to detail is the key to achieving top-notch quality. I pour my energy into ensuring that each aspect of the software meets the highest standards, and I enjoy collaborating with cross-functional teams to build robust solutions.
 </p>
 
@@ -16,12 +16,14 @@
 [![Tailwind CSS](https://img.shields.io/badge/tailwindcss-black?style=for-the-badge&logo=tailwindcss)](https://tailwindcss.com/) 
 [![DaisyUI](https://img.shields.io/badge/daisyui-black?style=for-the-badge&logo=daisyui)](https://daisyui.com/) 
 [![styled-components](https://img.shields.io/badge/styled-components-black?style=for-the-badge&logo=styled-components)](https://styled-components.com/docs) 
-[![Create React App](https://img.shields.io/badge/create-reactapp-black?style=for-the-badge&logo=createreactapp)](https://create-react-app.dev/) 
+[![React Icons](https://img.shields.io/badge/react-icons-red?style=for-the-badge&logo=react)](https://react-icons.github.io/react-icons/)
+[![Create React App](https://img.shields.io/badge/create-reactapp-black?style=for-the-badge&logo=createreactapp)](https://create-react-app.dev/)  
 
 ### Unit Testing
-[![Jest](https://img.shields.io/badge/jest-black?style=for-the-badge&logo=jest)](https://jestjs.io/) 
 [![React Testing Library](https://img.shields.io/badge/RTL-black?style=for-the-badge&logo=TestingLibrary)](https://testing-library.com/docs/react-testing-library/intro/) 
+[![Jest](https://img.shields.io/badge/jest-black?style=for-the-badge&logo=jest)](https://jestjs.io/) 
 [![ChaiJS](https://img.shields.io/badge/chai-black?style=for-the-badge&logo=chai)](https://www.chaijs.com/) 
+[![React Test Renderer](https://img.shields.io/badge/test-renderer-black?style=for-the-badge&logo=react)](https://legacy.reactjs.org/docs/test-renderer.html) 
 [![Enzyme](https://img.shields.io/badge/enzyme-black?style=for-the-badge&logo=enzymejs)](https://enzymejs.github.io/enzyme/) 
 
 ### E2E Testing
