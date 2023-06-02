@@ -26,8 +26,6 @@ I believe that attention to detail is the key to achieving top-notch quality. I 
     </a>
 </p>
 
-
-<details>
 <p align="center">
   <a href="https://github.com/nataburdyey">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nataburdyey&theme=transparent" />
@@ -42,7 +40,6 @@ I believe that attention to detail is the key to achieving top-notch quality. I 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nataburdyey&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
   </a>
 </p>
-</details>
 
 <p align="center">
   <a href="https://github.com/nataburdyey">
