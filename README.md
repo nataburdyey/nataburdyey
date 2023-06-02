@@ -18,25 +18,6 @@
 [![styled-components](https://img.shields.io/badge/styled-components-black?style=for-the-badge&logo=styled-components)](https://styled-components.com/docs) 
 [![Create React App](https://img.shields.io/badge/create-reactapp-black?style=for-the-badge&logo=createreactapp)](https://create-react-app.dev/) 
 
-### Linters and Formatters
-[![ESLint](https://img.shields.io/badge/eslint-black?style=for-the-badge&logo=eslint)](https://eslint.org/) 
-[![Prettier](https://img.shields.io/badge/prettier-black?style=for-the-badge&logo=prettier)](https://prettier.io/) 
-
-### Package Managers and Bundlers
-[![NPM](https://img.shields.io/badge/npm-black?style=for-the-badge&logo=npm)](https://www.npmjs.com/) 
-[![Yarn](https://img.shields.io/badge/yarn-black?style=for-the-badge&logo=yarn)](https://yarnpkg.com/) 
-[![Vite](https://img.shields.io/badge/vite-black?style=for-the-badge&logo=vite)](https://vitejs.dev/) 
-[![Webpack](https://img.shields.io/badge/webpack-black?style=for-the-badge&logo=webpack)](https://webpack.js.org/) 
-
-### Version Control Systems
-[![GitHub](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github)](https://github.com/) 
-[![Bitbucket](https://img.shields.io/badge/bitbucket-black?style=for-the-badge&logo=bitbucket)](https://bitbucket.org/) 
-
-### Continuous Deployment and Monitoring
-[![CircleCI](https://img.shields.io/badge/circleci-black?style=for-the-badge&logo=circleci)](https://circleci.com/) 
-[![Datadog](https://img.shields.io/badge/datadog-black?style=for-the-badge&logo=datadog)](https://www.datadoghq.com/)
-[![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)  
-
 ### Unit Testing
 [![Jest](https://img.shields.io/badge/jest-black?style=for-the-badge&logo=jest)](https://jestjs.io/) 
 [![React Testing Library](https://img.shields.io/badge/RTL-black?style=for-the-badge&logo=TestingLibrary)](https://testing-library.com/docs/react-testing-library/intro/) 
@@ -53,6 +34,24 @@
 [![BrowserStack](https://img.shields.io/badge/BrowserStack-blue?style=for-the-badge)](https://www.browserstack.com/)
 [![Persy Visual Testing](https://img.shields.io/badge/percy-purple?style=for-the-badge&logo=percy&logoColor=white)](https://www.browserstack.com/percy)
 [![Applitools Visual Testing](https://img.shields.io/badge/applitools-teal?style=for-the-badge&logo=applitools)](https://applitools.com/)
+
+### Continuous Deployment and Monitoring
+[![CircleCI](https://img.shields.io/badge/circleci-black?style=for-the-badge&logo=circleci)](https://circleci.com/) 
+[![Datadog](https://img.shields.io/badge/datadog-black?style=for-the-badge&logo=datadog)](https://www.datadoghq.com/)
+[![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
+### Package Managers and Bundlers
+[![NPM](https://img.shields.io/badge/npm-black?style=for-the-badge&logo=npm)](https://www.npmjs.com/) 
+[![Yarn](https://img.shields.io/badge/yarn-black?style=for-the-badge&logo=yarn)](https://yarnpkg.com/) 
+[![Vite](https://img.shields.io/badge/vite-black?style=for-the-badge&logo=vite)](https://vitejs.dev/) 
+[![Webpack](https://img.shields.io/badge/webpack-black?style=for-the-badge&logo=webpack)](https://webpack.js.org/) 
+### Linters and Formatters
+[![ESLint](https://img.shields.io/badge/eslint-black?style=for-the-badge&logo=eslint)](https://eslint.org/) 
+[![Prettier](https://img.shields.io/badge/prettier-black?style=for-the-badge&logo=prettier)](https://prettier.io/) 
+
+### Version Control Systems
+[![GitHub](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github)](https://github.com/) 
+[![Bitbucket](https://img.shields.io/badge/bitbucket-black?style=for-the-badge&logo=bitbucket)](https://bitbucket.org/)   
+
 
 <p align="center">
   <a href="https://github.com/nataburdyey">
