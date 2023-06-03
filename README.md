@@ -9,29 +9,34 @@
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=TypeScript)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://react.dev/) 
-[![Redux](https://img.shields.io/badge/redux-black?style=for-the-badge&logo=redux)](https://redux.js.org/) 
+[![Redux](https://img.shields.io/badge/redux-black?style=for-the-badge&logo=redux)](https://redux.js.org/)
+
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://html.com/html5/) 
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://www.css3.com/) 
 [![Flexbox](https://img.shields.io/badge/flexbox-black?style=for-the-badge&logo=flexbox)](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_flexible_box_layout/Basic_concepts_of_flexbox) 
-[![Tailwind CSS](https://img.shields.io/badge/tailwindcss-black?style=for-the-badge&logo=tailwindcss)](https://tailwindcss.com/) 
+[![Tailwind CSS](https://img.shields.io/badge/tailwind_css-black?style=for-the-badge&logo=tailwindcss)](https://tailwindcss.com/) 
 [![DaisyUI](https://img.shields.io/badge/daisyui-black?style=for-the-badge&logo=daisyui)](https://daisyui.com/) 
-[![styled-components](https://img.shields.io/badge/styled-components-black?style=for-the-badge&logo=styled-components)](https://styled-components.com/docs) 
-[![React Icons](https://img.shields.io/badge/react-icons-red?style=for-the-badge&logo=react)](https://react-icons.github.io/react-icons/)
-[![Create React App](https://img.shields.io/badge/create-reactapp-black?style=for-the-badge&logo=createreactapp)](https://create-react-app.dev/)  
+[![styled-components](https://img.shields.io/badge/styled_components-black?style=for-the-badge&logo=styled-components)](https://styled-components.com/docs) 
 
-### Unit Testing
-[![React Testing Library](https://img.shields.io/badge/RTL-black?style=for-the-badge&logo=TestingLibrary)](https://testing-library.com/docs/react-testing-library/intro/) 
+[![Create React App](https://img.shields.io/badge/create_react_app-black?style=for-the-badge&logo=createreactapp)](https://create-react-app.dev/)
+[![React Icons](https://img.shields.io/badge/react_icons-black?style=for-the-badge&logo=react)](https://react-icons.github.io/react-icons/)
+
+[![MongoDB](https://img.shields.io/badge/mongodb-black?style=for-the-badge&logo=mongodb)](https://www.mongodb.com/)
+[![Firebase](https://img.shields.io/badge/firebase-black?style=for-the-badge&logo=firebase)](https://firebase.google.com/)
+[![Axios](https://img.shields.io/badge/axios-black?style=for-the-badge&logo=axios)](https://axios-http.com/docs/api_intro)
+[![Postman](https://img.shields.io/badge/postman-black?style=for-the-badge&logo=postman)](https://www.postman.com/)
+
+### Unit, E2E, Performance, and Visual Testing
+[![React Testing Library](https://img.shields.io/badge/react_testing_library-black?style=for-the-badge&logo=TestingLibrary)](https://testing-library.com/docs/react-testing-library/intro/) 
 [![Jest](https://img.shields.io/badge/jest-black?style=for-the-badge&logo=jest)](https://jestjs.io/) 
 [![ChaiJS](https://img.shields.io/badge/chai-black?style=for-the-badge&logo=chai)](https://www.chaijs.com/) 
-[![React Test Renderer](https://img.shields.io/badge/test-renderer-black?style=for-the-badge&logo=react)](https://legacy.reactjs.org/docs/test-renderer.html) 
+[![React Test Renderer](https://img.shields.io/badge/react_test_renderer-black?style=for-the-badge&logo=react)](https://legacy.reactjs.org/docs/test-renderer.html) 
 [![Enzyme](https://img.shields.io/badge/enzyme-black?style=for-the-badge&logo=enzymejs)](https://enzymejs.github.io/enzyme/) 
 
-### E2E Testing
 [![Cypress E2E Testing](https://img.shields.io/badge/cypress-black?style=for-the-badge&logo=cypress)](https://www.cypress.io/) 
 [![CodeceptJS E2E Testing](https://img.shields.io/badge/CodeceptJS-black?style=for-the-badge&logo=CodeceptJS)](https://codecept.io/) 
 [![Gherkin Syntax](https://img.shields.io/badge/cucumber-black?style=for-the-badge&logo=cucumber)](https://cucumber.io/docs/gherkin/reference/) 
 
-### Performance, Load, And Visual Testing
 [![K6 Load Testing](https://img.shields.io/badge/k6-black?style=for-the-badge&logo=k6)](https://k6.io/)
 [![BrowserStack](https://img.shields.io/badge/BrowserStack-blue?style=for-the-badge)](https://www.browserstack.com/)
 [![Persy Visual Testing](https://img.shields.io/badge/percy-purple?style=for-the-badge&logo=percy&logoColor=white)](https://www.browserstack.com/percy)
