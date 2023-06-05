@@ -1,7 +1,7 @@
-<h1 align="center">Hello there! Welcome to my GitHub page!</h1>
+<h1 align="center">Hello there!</h1>
 
 <p>
- I'm Natalia, a front-end engineer who's passionate about creating pixel-perfect and engaging user interfaces.<br /> 
+ I'm Natalia, a front-end developer who's passionate about creating engaging user interfaces with React.<br /> 
  I believe that attention to detail is the key to achieving top-notch quality. I pour my energy into ensuring that each aspect of the software meets the highest standards, and I enjoy collaborating with cross-functional teams to build robust solutions.
 </p>
 
@@ -43,9 +43,11 @@
 [![Applitools Visual Testing](https://img.shields.io/badge/applitools-teal?style=for-the-badge&logo=applitools)](https://applitools.com/)
 
 ### Continuous Deployment and Monitoring
-[![CircleCI](https://img.shields.io/badge/circleci-black?style=for-the-badge&logo=circleci)](https://circleci.com/) 
-[![Datadog](https://img.shields.io/badge/datadog-black?style=for-the-badge&logo=datadog)](https://www.datadoghq.com/)
+[![CircleCI](https://img.shields.io/badge/circleci-black?style=for-the-badge&logo=circleci)](https://circleci.com/)
+[![GitHub Actions](https://img.shields.io/badge/github_actions-black?style=for-the-badge&logo=github)](https://docs.github.com/en/actions)
 [![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
+[![Datadog](https://img.shields.io/badge/datadog-black?style=for-the-badge&logo=datadog)](https://www.datadoghq.com/)
+
 ### Package Managers and Bundlers
 [![NPM](https://img.shields.io/badge/npm-black?style=for-the-badge&logo=npm)](https://www.npmjs.com/) 
 [![Yarn](https://img.shields.io/badge/yarn-black?style=for-the-badge&logo=yarn)](https://yarnpkg.com/) 
@@ -56,6 +58,7 @@
 [![Prettier](https://img.shields.io/badge/prettier-black?style=for-the-badge&logo=prettier)](https://prettier.io/) 
 
 ### Version Control Systems
+[![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git)](https://git-scm.com/) 
 [![GitHub](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github)](https://github.com/) 
 [![Bitbucket](https://img.shields.io/badge/bitbucket-black?style=for-the-badge&logo=bitbucket)](https://bitbucket.org/)   
 
