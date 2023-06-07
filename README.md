@@ -72,11 +72,11 @@
   </a>
   <!-- <a href="https://github.com/nataburdyey">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nataburdyey&theme=transparent" />
-  </a> -->
+  </a> 
   <a href="https://github.com/nataburdyey">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nataburdyey&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
   </a>
-</p>
+</p> -->
 
 <p align="center">
     <a href="https://www.linkedin.com/in/natalia-burdyey/">
