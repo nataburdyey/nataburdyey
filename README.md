@@ -10,21 +10,21 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=TypeScript)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://react.dev/) 
 [![Redux](https://img.shields.io/badge/redux-black?style=for-the-badge&logo=redux)](https://redux.js.org/)
-
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://html.com/html5/) 
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://www.css3.com/) 
-[![Flexbox](https://img.shields.io/badge/flexbox-black?style=for-the-badge&logo=flexbox)](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_flexible_box_layout/Basic_concepts_of_flexbox) 
+[![Flexbox](https://img.shields.io/badge/flexbox-black?style=for-the-badge&logo=flexbox)](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_flexible_box_layout/Basic_concepts_of_flexbox)
+[![Grid](https://img.shields.io/badge/grid-black?style=for-the-badge&logo=grid)](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_grid_layout/Basic_concepts_of_grid_layout)
 [![Tailwind CSS](https://img.shields.io/badge/tailwind_css-black?style=for-the-badge&logo=tailwindcss)](https://tailwindcss.com/) 
 [![DaisyUI](https://img.shields.io/badge/daisyui-black?style=for-the-badge&logo=daisyui)](https://daisyui.com/) 
-[![styled-components](https://img.shields.io/badge/styled_components-black?style=for-the-badge&logo=styled-components)](https://styled-components.com/docs) 
-
+[![styled-components](https://img.shields.io/badge/styled_components-black?style=for-the-badge&logo=styled-components)](https://styled-components.com/docs)
 [![Create React App](https://img.shields.io/badge/create_react_app-black?style=for-the-badge&logo=createreactapp)](https://create-react-app.dev/)
 [![React Icons](https://img.shields.io/badge/react_icons-black?style=for-the-badge&logo=react)](https://react-icons.github.io/react-icons/)
 
-[![MongoDB](https://img.shields.io/badge/mongodb-black?style=for-the-badge&logo=mongodb)](https://www.mongodb.com/)
-[![Firebase](https://img.shields.io/badge/firebase-black?style=for-the-badge&logo=firebase)](https://firebase.google.com/)
 [![Axios](https://img.shields.io/badge/axios-black?style=for-the-badge&logo=axios)](https://axios-http.com/docs/api_intro)
+[![Firebase](https://img.shields.io/badge/firebase-black?style=for-the-badge&logo=firebase)](https://firebase.google.com/)
+[![Contentful](https://img.shields.io/badge/contentful-black?style=for-the-badge&logo=contentful)](https://www.contentful.com/)
 [![Postman](https://img.shields.io/badge/postman-black?style=for-the-badge&logo=postman)](https://www.postman.com/)
+[![MongoDB](https://img.shields.io/badge/mongodb-black?style=for-the-badge&logo=mongodb)](https://www.mongodb.com/)
 
 ### Unit, E2E, Performance, and Visual Testing
 [![React Testing Library](https://img.shields.io/badge/react_testing_library-black?style=for-the-badge&logo=TestingLibrary)](https://testing-library.com/docs/react-testing-library/intro/) 
