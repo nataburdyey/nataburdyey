@@ -8,9 +8,10 @@
 ### Web Development
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=TypeScript)](https://www.typescriptlang.org/)
-[![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://react.dev/) 
-[![React Query](https://img.shields.io/badge/react_query-black?style=for-the-badge&logo=react-query)](https://tanstack.com/query/latest/docs/react/overview) 
+[![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://react.dev/)
 [![Redux](https://img.shields.io/badge/redux-black?style=for-the-badge&logo=redux)](https://redux.js.org/)
+[![React Query](https://img.shields.io/badge/react_query-black?style=for-the-badge&logo=react-query)](https://tanstack.com/query/latest/docs/react/overview)
+[![React Query Devtools](https://img.shields.io/badge/react_query_devtools-black?style=for-the-badge&logo=react-query)](https://tanstack.com/query/v4/docs/react/devtools) 
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://html.com/html5/) 
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://www.css3.com/) 
 [![Flexbox](https://img.shields.io/badge/flexbox-black?style=for-the-badge&logo=flexbox)](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_flexible_box_layout/Basic_concepts_of_flexbox)
