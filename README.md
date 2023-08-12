@@ -10,15 +10,17 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-grey?style=for-the-badge&logo=TypeScript)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/react-grey?style=for-the-badge&logo=react)](https://react.dev/)
 [![React Router](https://img.shields.io/badge/react_router-grey?style=for-the-badge&logo=react-router)](https://reactrouter.com/en/main) 
-[![Redux](https://img.shields.io/badge/redux-grey?style=for-the-badge&logo=redux)](https://redux.js.org/)
+[![Redux](https://img.shields.io/badge/redux-grey?style=for-the-badge&logo=redux&logoColor=purple)](https://redux.js.org/)
+[![Immer](https://img.shields.io/badge/immer-grey?style=for-the-badge&logo=immer)](https://immerjs.github.io/immer/)
 [![React Query](https://img.shields.io/badge/react_query-grey?style=for-the-badge&logo=react-query)](https://tanstack.com/query/latest/docs/react/overview)
 [![Create React App](https://img.shields.io/badge/create_react_app-grey?style=for-the-badge&logo=createreactapp)](https://create-react-app.dev/)
 [![Vite](https://img.shields.io/badge/vite-grey?style=for-the-badge&logo=vite)](https://vitejs.dev/) 
 [![React Select](https://img.shields.io/badge/react_select-grey?style=for-the-badge&logo=react-select)](https://react-select.com/)
+[![Recharts](https://img.shields.io/badge/recharts-grey?style=for-the-badge&logo=recharts)](https://recharts.org/en-US/)
 [![React Icons](https://img.shields.io/badge/react_icons-grey?style=for-the-badge&logo=react-icons)](https://react-icons.github.io/react-icons/)
 [![React-Tostify](https://img.shields.io/badge/react_tostify-grey?style=for-the-badge&logo=react-tostify)](https://fkhadra.github.io/react-toastify/introduction)
 [![HTML5](https://img.shields.io/badge/html5-grey?style=for-the-badge&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML) 
-[![CSS3](https://img.shields.io/badge/css3-grey?style=for-the-badge&logo=css3)](https://www.css3.com/) 
+[![CSS3](https://img.shields.io/badge/css3-grey?style=for-the-badge&logo=css3&logoColor=blue)](https://www.css3.com/) 
 [![Flexbox](https://img.shields.io/badge/flexbox-grey?style=for-the-badge&logo=flexbox)](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_flexible_box_layout/Basic_concepts_of_flexbox)
 [![Grid](https://img.shields.io/badge/grid-grey?style=for-the-badge&logo=grid)](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_grid_layout/Basic_concepts_of_grid_layout)
 [![Tailwind CSS](https://img.shields.io/badge/tailwind_css-grey?style=for-the-badge&logo=tailwindcss)](https://tailwindcss.com/) 
@@ -26,6 +28,7 @@
 [![Styled Components](https://img.shields.io/badge/styled_components-grey?style=for-the-badge&logo=styled-components)](https://styled-components.com/docs)
 [![Figma](https://img.shields.io/badge/figma-grey?style=for-the-badge&logo=figma)](https://www.figma.com/)
 [![Storybook](https://img.shields.io/badge/storybook-grey?style=for-the-badge&logo=storybook)](https://storybook.js.org/)
+[![LaunchDarkly](https://img.shields.io/badge/launchdarkly-grey?style=for-the-badge&logo=launch-darkly)](https://launchdarkly.com/)
 
 
 [![Axios](https://img.shields.io/badge/axios-grey?style=for-the-badge&logo=axios&logoColor=purple)](https://axios-http.com/docs/api_intro)
@@ -37,7 +40,7 @@
 [![MongoDB](https://img.shields.io/badge/mongodb-grey?style=for-the-badge&logo=mongodb)](https://www.mongodb.com/)
 
 [![VS Code](https://img.shields.io/badge/vs_code-grey?style=for-the-badge&logo=visual-studio-code&logoColor=blue)](https://code.visualstudio.com/)
-[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-grey?style=for-the-badge&logo=IntelliJIDEA)](https://www.jetbrains.com/idea/)
+[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-grey?style=for-the-badge&logo=IntelliJIDEA&logoColor=red)](https://www.jetbrains.com/idea/)
 [![Jira](https://img.shields.io/badge/jira-grey?style=for-the-badge&logo=jira&logoColor=blue)](https://www.atlassian.com/software/jira)
 [![Trello](https://img.shields.io/badge/trello-grey?style=for-the-badge&logo=trello&logoColor=blue)](https://trello.com/)
 
