@@ -11,6 +11,7 @@
 [![React](https://img.shields.io/badge/react-grey?style=for-the-badge&logo=react)](https://react.dev/)
 [![React Router](https://img.shields.io/badge/react_router-grey?style=for-the-badge&logo=react-router)](https://reactrouter.com/en/main) 
 [![Redux](https://img.shields.io/badge/redux-grey?style=for-the-badge&logo=redux&logoColor=purple)](https://redux.js.org/)
+[![XState](https://img.shields.io/badge/xstate-grey?style=for-the-badge&logo=xstate)](https://stately.ai/docs/xstate)
 [![Immer](https://img.shields.io/badge/immer-grey?style=for-the-badge&logo=immer)](https://immerjs.github.io/immer/)
 [![React Query](https://img.shields.io/badge/react_query-grey?style=for-the-badge&logo=react-query)](https://tanstack.com/query/latest/docs/react/overview)
 [![Create React App](https://img.shields.io/badge/create_react_app-grey?style=for-the-badge&logo=createreactapp)](https://create-react-app.dev/)
