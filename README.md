@@ -26,7 +26,7 @@
 [![Tailwind CSS](https://img.shields.io/badge/tailwind_css-grey?style=for-the-badge&logo=tailwindcss)](https://tailwindcss.com/) 
 [![DaisyUI](https://img.shields.io/badge/daisyui-grey?style=for-the-badge&logo=daisyui)](https://daisyui.com/) 
 [![Styled Components](https://img.shields.io/badge/styled_components-grey?style=for-the-badge&logo=styled-components)](https://styled-components.com/docs)
-[![Material UI](https://img.shields.io/badge/Material_UI-blue?style=for-the-badge)](https://mui.com/material-ui/all-components/)
+[![Material UI](https://img.shields.io/badge/Material_UI-grey?style=for-the-badge&logo=mui)](https://mui.com/material-ui/all-components/)
 [![Figma](https://img.shields.io/badge/figma-grey?style=for-the-badge&logo=figma)](https://www.figma.com/)
 [![Storybook](https://img.shields.io/badge/storybook-grey?style=for-the-badge&logo=storybook)](https://storybook.js.org/)
 [![LaunchDarkly](https://img.shields.io/badge/launchdarkly-grey?style=for-the-badge&logo=launch-darkly)](https://launchdarkly.com/)
